@@ -1,0 +1,15 @@
+--- 
+ layout: post 
+ title: "abcdef" 
+ date: 2017-06-14 
+ time: " Europe/Berlin" 
+ fa: "clock-o" 
+ --- 
+ |                   |   |                                                                      | 
+ |-------------------|---|----------------------------------------------------------------------| 
+ | Systems:          |   | abcdef| 
+ | Start:            |   |  at  Europe/Berlin                    | 
+ | End:              |   | Planned for at  Europe/Berlin              | 
+ | Description:      |   | | 
+ | Affected:         |   |  | 
+ | Update:			  |   |  | 
